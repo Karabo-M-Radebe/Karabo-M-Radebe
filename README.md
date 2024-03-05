@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Karabo M. Radebe
 #### I am an aspiring Junior web developer
-![I am an aspiring Junior web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am an aspiring Junior web developer]
 
 I am a CodeSpace student, currently embarking on the journey of software engineering. I love to learn about new technologies and enjoy solving problems.
 
